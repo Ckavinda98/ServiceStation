@@ -21,7 +21,7 @@ namespace ServiceStation.Web.Controllers
                 Id = 1,
                 Title = "Test",
                 Description = "Test",
-                Coast = 23.99m,
+                Coast = 23.99,
                 IsDeleted = true
             };
 
